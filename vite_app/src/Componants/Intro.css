@@ -1,0 +1,122 @@
+.intro{
+    margin-top: 20px;
+    color: white;
+  }
+  
+  .intro img{
+    position: absolute;
+    height: 590px;
+    width: 1535px;
+    z-index: -1;
+  }
+  
+  .center{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    padding: 90px;
+  }
+  
+  .name{
+    margin-top: 80px;
+    font-weight: bold;
+    font-size: 100px;
+  }
+  
+  .manu{
+    margin-top: 20px;
+    font-weight:bold;
+    font-size: 30px;
+  }
+  
+  .contact-us-btn{
+    background-color: rgba(27, 27, 27, 0.3);
+    border: 1px solid rgba(63, 101, 10, 0.5);
+    color: white;
+    padding: 13px 40px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+    margin-top: 40px;
+  }
+  
+  .contact-us-btn:hover {
+    background-color: rgb(0, 0, 0);
+    opacity: 100%;
+  }
+  
+  .ignite{
+    margin-top: 50px;
+    font-size: 28px;
+    font-weight:500;
+    color: #FFFFFF;
+  }
+  
+  .container-1{
+    margin-top: 60px;
+    display: flex;
+  }
+  
+  .text{
+    margin-left: 100px;
+  }
+  
+  .wel{
+    font-weight: 700;
+    font-size: 84px;
+    font-family: "Roboto Condensed", sans-serif;
+  }
+  
+  .to{
+    font-size:40px;
+    font-weight: 700;
+  }
+  
+  .bamoka{
+    color: #3F650A;
+    font-size: 55px;
+    font-weight: 400;
+    line-height: 45px;
+    font-family: "Arial Rounded MT W02 Bold";
+  }
+  
+  .we{
+    font-size: 16px;
+    color: #1B1B1B;
+    margin: 10px 0 20px 0;
+    line-height: 25px;
+  }
+
+  .container-1 img{
+    height: 449px;
+    width: 615px;
+    margin-left: 166px;
+    border-radius: 20px;
+  }
+  
+  .container-2{
+    display: flex;
+    margin-top: 90px;
+  }
+  
+  .container-2 img{
+    height: 449px;
+    width: 615px;
+    margin-left: 100px;
+    border-radius: 20px;
+  }
+  
+  .text-2{
+    margin-left: 115px;
+  }
+  
+  .about-us{
+    font-weight: 600;
+    font-size: 59px;
+  }
+  
+  .manufacturer{
+    font-weight: 600;
+    font-size: 20px;
+  }
